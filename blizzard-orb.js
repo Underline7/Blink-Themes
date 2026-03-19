@@ -33,6 +33,7 @@ blue     , magenta , cyan   , white,
 lightBlack   , lightRed  , lightGreen , lightYellow,
 lightBlue    , lightMagenta  , lightCyan  , lightWhite ]);
 
+
 t.prefs_.set('cursor-color', '#94B6CC');
-t.prefs_.set('foreground-color', '#111111');
-t.prefs_.set('background-color', '#ffffff');
+t.prefs_.set('foreground-color', '#CFCFCF');
+t.prefs_.set('background-color', '#000000');
